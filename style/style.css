@@ -65,7 +65,7 @@ a {
 
 /* main section */
 .main-section {
-    background-image: url(/resources/Hamburger.jpg);
+    background-image: url(resources/Hamburger.jpg);
     background-color: transparent;
     background-repeat: no-repeat;
     background-size: cover;
@@ -196,7 +196,7 @@ a {
     display: flex;
     flex-direction: row;
     padding: 100px 250px;
-    background-image: url(/resources/contact.avif);
+    background-image: url(resources/contact.avif);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
