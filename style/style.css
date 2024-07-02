@@ -255,6 +255,7 @@ footer {
     justify-content: space-evenly;
     height: 200px;
     box-shadow: 0px -1px 5px black;
+    background-color: #e7f6ff;
 }
 footer h3{
     font-family: 'josefin sans',sans-serif;
